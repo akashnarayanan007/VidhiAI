@@ -1,5 +1,5 @@
 import { useState, useEffect, createContext, useContext } from 'react';
-import { BrowserRouter as Router, Routes, Route, NavLink, useLocation, useNavigate, Navigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, NavLink, useLocation, useNavigate, Navigate } from 'react-router-dom';
 import { Home, BookOpen, HelpCircle, Bookmark, Settings, Scale, Landmark, Award } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 

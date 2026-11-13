@@ -10,14 +10,23 @@
 [![BNS 2023](https://img.shields.io/badge/Statutes-BNS%202023%20Updated-FF9933)](https://www.mha.gov.in/)
 [![UPSC Ready](https://img.shields.io/badge/Exam-UPSC%20GS--II%20Ready-138808)](https://upsc.gov.in/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://akashnarayanan007.github.io/VidhiAI/)
 
 <p align="center">
   <strong>VidhiAI</strong> (VidhiMitra) is a comprehensive, desktop-first legal intelligence platform built for Law Students, Judicial Services (PCS-J) Aspirants, UPSC Civil Services (GS-II) Candidates, Legal Practitioners, and Citizens.
 </p>
 
-[Live Screenshots](#-live-application-showcase) • [Test Login](#-pre-configured-test-login) • [Key Features](#-core-capabilities) • [Getting Started](#-getting-started) • [Architecture](#-database--system-architecture)
+### 🌐 [Click Here to Access Live Website](https://akashnarayanan007.github.io/VidhiAI/)
+
+[Live Demo](https://akashnarayanan007.github.io/VidhiAI/) • [Screenshots](#-live-application-showcase) • [Test Login](#-pre-configured-test-login) • [Key Features](#-core-capabilities) • [Getting Started](#-getting-started) • [Architecture](#-database--system-architecture)
 
 </div>
+
+---
+
+> [!TIP]
+> **Live Demo Available**: You can access and explore the full platform right now directly in your browser without local installation:
+> 👉 **[https://akashnarayanan007.github.io/VidhiAI/](https://akashnarayanan007.github.io/VidhiAI/)**
 
 ---
 
